@@ -1,0 +1,7 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pymongo>=4.13
+pydantic-settings>=2.4
+pyjwt>=2.9
+pwdlib[argon2]>=0.2
+tzdata
